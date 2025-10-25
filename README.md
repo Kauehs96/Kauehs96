@@ -23,6 +23,3 @@
 </div>
 
 ## Thank you for visiting!
-<div>
-![Snake animation](https://github.com/Kauehs96/Kauehs96/blob/output/github-contribution-grid-snake.svg)
-</div>
