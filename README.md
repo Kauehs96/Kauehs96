@@ -5,7 +5,7 @@
   <p>  I work as a Sous Chef in a pub and just started to learn IT.</p>
   <p>  I'm currently studying at Alura, one of the biggest tech schools from Brazil.</p>
   <p>  Programming is something that I was always curious about, but never had the opportunity to study it before.</p>
-  <p>  With this graduation, I hope that I'll be able to start againa and achieve a change of carrrer.</p>
+  <p>  With this graduation, I hope that I'll be able to start again and achieve a change of carrrer.</p>
 
  ## Tools and Technology (Currently studying)
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
